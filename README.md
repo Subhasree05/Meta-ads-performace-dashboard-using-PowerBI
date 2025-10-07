@@ -58,12 +58,12 @@ The dashboard delivers a complete **marketing funnel view** — from impressions
 
 ## 🧱 Project Components
 
-- **Data Source:** Meta Ads Data (Facebook & Instagram) — CSV/API
+- **Data Source:** Meta Ads Data (Facebook & Instagram) 
 - **Data Model:** Star Schema
   - Fact Table → `ad_events`
   - Dimensions → `ads`, `campaigns`, `users`
 - **DAX Measures:** CTR, Conversion Rate, Engagement Rate, ROAS
-- **Filters:** Platform, Ad Type, Gender, Age, Country
+- **Filters:** Platform, Ad Type, Gender, Age
 - **Visuals:**
   - Donut Chart → Engagement by Gender
   - Bar Chart → Engagement by Age Group
@@ -78,7 +78,7 @@ The dashboard delivers a complete **marketing funnel view** — from impressions
 2. Female audiences aged **18–30** are most responsive.
 3. Allocate higher budget to **Video & Story Ads**.
 4. Best performance during **afternoons & evenings**.
-5. Focus marketing spend on **India & Brazil** for reach and **Germany & UK** for conversions.
+
 
 ---
 
@@ -86,13 +86,17 @@ The dashboard delivers a complete **marketing funnel view** — from impressions
 - **Power BI Desktop** – Dashboard creation
 - **Power Query** – Data transformation
 - **DAX (Data Analysis Expressions)** – Custom KPI formulas
-- **Excel / Meta Ads API** – Data extraction
 
 ---
 
 ## 🖼️ Dashboard Preview
-📸 *View the full interactive dashboard here:*
-👉 [XYZ link – Add screenshot or Power BI dashboard link]
+
+### Facebook Dashboard
+![Facebook Dashboard](https://github.com/Subhasree05/Meta-ads-performace-dashboard-using-PowerBI/blob/main/Images/facebook%20dashboard.png)
+
+### Instagram Dashboard
+![Instagram Dashboard](https://github.com/Subhasree05/Meta-ads-performace-dashboard-using-PowerBI/blob/main/Images/instagram%20dashboard.png)
+
 
 ---
 
