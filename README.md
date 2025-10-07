@@ -98,7 +98,4 @@ The dashboard delivers a complete **marketing funnel view** — from impressions
 ![Instagram Dashboard](https://github.com/Subhasree05/Meta-ads-performace-dashboard-using-PowerBI/blob/main/Images/instagram%20dashboard.png)
 
 
----
 
-## 🚀 Conclusion
-This Power BI dashboard provides deep visibility into Meta Ads performance, empowering marketers to make data-backed decisions, improve ROI, and optimize campaign strategies effectively.
